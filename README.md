@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) - Product page
-- [Flask Dashboard Argon PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon-pro) - Documentation
+- [Flask Dashboard Argon PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon-pro/) - Documentation
 - [Flask Dashboard Argon PRO](https://flask-dashboard-argon-pro.appseed.us/) - LIVE demo
 
 <br />
