@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2020-12-29
+### Improvements & Bug Fixes
+
+- Bump Flask codebase - v1.0.2
+
 ## [1.0.1] 2020-06-14
 ### Improvements
 
