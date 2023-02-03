@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.8] 2023-02-02
+### Changes
+
+- `Update Docker` Scripts
+  - External port is now `5085`
+- Update Documentation
+  - [Flask Argon PRO](https://docs.appseed.us/products/flask-dashboards/argon-dashboard-pro/) - official docs
+- Remove `HEROKU` Procfile   
+
 ## [1.0.7] 2022-04-01
 ### Fixes
 
